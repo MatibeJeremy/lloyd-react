@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-### Login
+### Home Page
 ![Test Image 1](public/home.png)
 
 
